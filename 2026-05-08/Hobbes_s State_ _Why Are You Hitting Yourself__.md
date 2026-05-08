@@ -1,7 +1,9 @@
-### Main Topic: State Legitimacy
-**Main Thesis:** The article argues that the legitimacy of a government comes from the idea that people agree to be ruled, even if they don’t explicitly say so.
-**Simple Summary:**  A long time ago, a thinker named Thomas Hobbes said that governments exist because people secretly agree to be controlled.  He believed people are naturally selfish and would fight each other if there were no rules. So, they made a deal: they give the government power to keep them safe and in line, and in return, the government protects them. It’s like the “why are you hitting yourself?” example – the government’s actions are seen as agreed upon by the people.
-**The Bottom Line:** > Governments are seen as legitimate because people quietly accept their rule in exchange for protection and order, even if they don’t actively choose to be governed.
+### Main Topic: Social Contract
+**Main Thesis:** Hobbes argues that criticizing the government is like criticizing yourself because you agreed to it in the first place.
+
+**Simple Summary:**  The article explains that Thomas Hobbes believed if you don't like how the government is acting, you should really think about whether you agreed to it when you first decided to live in a society.  Basically, you created the government, so you’re responsible for its actions.
+
+**The Bottom Line:** > If you don’t like the government, you should remember that you chose to be part of it, and therefore you’re partly responsible for its behavior.
 
 ---
-*Original article: https://mises.org/mises-wire/hobbess-state-why-are-you-hitting-yourself*
+*Original article: https://mises.org/podcasts/audio-mises-wire/hobbess-state-why-are-you-hitting-yourself*
